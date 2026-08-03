@@ -1,4 +1,10 @@
 head{
-    backgound-color: rgb(81, 255, 0)
-
+    backgound-color: rgb(81, 255, 0);
+   color: white;
+text-align:center;
+}
+main{
+ background-color: white
+color:blueviolet
+text-align: center;
 }
